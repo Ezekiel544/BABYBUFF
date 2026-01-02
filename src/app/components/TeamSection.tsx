@@ -35,7 +35,7 @@ export function TeamSection() {
   ];
 
   const designers = [
-    'D.Malachovičius',
+    'BABYBUFF',
     'Nelson D Enthusiast'
   ];
 
