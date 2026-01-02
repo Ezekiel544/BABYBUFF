@@ -40,7 +40,7 @@ export function TeamSection() {
   ];
 
   return (
-    <section className="relative py-24 bg-gradient-to-b from-black to-[#0a0a0f]">
+    <section className="relative py-16 bg-gradient-to-b from-black to-[#0a0a0f]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <motion.div
