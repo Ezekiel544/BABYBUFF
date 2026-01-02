@@ -31,7 +31,7 @@ export function TeamSection() {
   const moderators = [
     { name: 'Rašh', handle: '@rash7ofweb3' },
     { name: 'QUDRA', handle: '@officialsirjhay1' },
-    { name: 'Clinton', handle: '@Clintonways001' }
+    // { name: 'Clinton', handle: '@Clintonways001' }
   ];
 
   const designers = [
